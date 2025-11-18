@@ -12,6 +12,8 @@ An idea from Data Storytelling with Tableau Public that has resonated with me is
 
 ### Link to viz3 : <https://public.tableau.com/views/MyFirstVizonTableauPublic_17629914171700/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link>
 Preview Image: 
-
+![viz3](images/tableau/viz3.png)
 
 ### Link to viz2 : <https://public.tableau.com/views/DataandRelate/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link>
+Preview Image:
+![viz2](images/tableau/viz2.png)
