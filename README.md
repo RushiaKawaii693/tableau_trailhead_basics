@@ -2,12 +2,7 @@
 ## HHA 507 Assignment 6
 
 # Reflection:
-Data storytelling emphasizes that graphics are only important when they support a clear narrative, which struck with me since it challenges you to go beyond charts and focus on the "why."  One standout feature of Tableau is how the data model separates logical and physical layers, making it easy to combine related tables without having to manually write joins every time.  That framework allows for flexibility in relationships while yet generating accurate outcomes.  A useful healthcare use case for Tableau would be to create a dashboard that analyzes patient readmission rates by condition, allowing doctors to recognize patterns, allocate resources, and intervene early with tailored therapies.  It's the type of tool that converts raw data into actionable decisions that improve treatment.
-
-
-
-
-
+An idea from Data Storytelling with Tableau Public that has resonated with me is keeping the message concentrated, which prompted me to construct my visualization around a single clear takeaway rather than scattering the viewer's attention. The Tableau Data Model emphasized the importance of using relationships rather than traditional joins because connections retain each table at its natural level of information and eliminate untidy duplications, which are common in real-world healthcare datasets. This is important because healthcare data typically spans numerous tables (visits, labs, diagnoses, and outcomes), and imposing joins too early can distort the figures. A excellent healthcare example would be tracking chronic disease outcomes, where patient visits, lab values, and medication histories are stored in distinct tables; Tableau's data architecture can elegantly combine them, while the storytelling component helps emphasize which patient groups require attention.  It's a configuration that makes complex data easier to examine, interpret, and act upon.
 
 
 
